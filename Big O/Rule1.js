@@ -10,7 +10,7 @@ function findbedanta(array) {
     }
 }
 
-findbedanta(array);
+findbedanta(array)
 // In the argument array of the function findbedanta the element "bedanta" is considered to be at the last index of array
 // This is called the worst case scenerio
 // This is the initial case considered while calculating the BiG O of the code
