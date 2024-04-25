@@ -6,7 +6,7 @@
 let a = [1, 2, 3, 4, 5]
 
 function find5(input) {
-    for (i = 0; i < input.length; i++) {
+    for (let i = 0; i < input.length; i++) {
         if (input[i] == 5) {
             console.log('found 5')
         }
