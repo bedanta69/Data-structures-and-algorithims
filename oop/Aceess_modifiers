@@ -1,0 +1,5 @@
+//  There are three types of access modifiers
+
+// public: Data and methods accessible inside everyone
+// private: data and methods accessible inside class
+// protected: data and Methods accessible inside class and to its derived class
