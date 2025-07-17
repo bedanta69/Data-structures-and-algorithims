@@ -1,0 +1,8 @@
+Base class     Derived class     Derived class     Derived class
+               Private Mode      Protected Mode    Public Mode
+
+Private        not inherited      not inherited    not inherited
+
+Protected      private            protected        protected
+
+Public         private            protected        public
